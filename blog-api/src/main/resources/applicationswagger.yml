@@ -1,0 +1,22 @@
+
+swagger:
+  print-init: true
+  enabled: true
+  security-configuration:
+    client-id: client-1
+    client-secret: secretA
+    scope-separator: \,
+    use-basic-authentication-with-access-code-grant: true
+  dockets:
+    docket-api:
+      base-package: com.lzh.blog.controller
+      group-name: api
+      api-info:
+        title: 要展示的接口名称
+        description: RESTful接口描述
+        version:版本号
+        license: 版权
+      global-parameters:
+        - name: token
+          description: Access Token
+          param-type: header

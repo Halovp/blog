@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86afa8a8-0fb4-4a1f-aa25-f180fdb73c9c" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\localRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Maven/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="25mLTSec74TKjvm09yQEY5DKq49" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Clone/gitee/sekill/seckill_demo" />
+    <property name="project.structure.last.edited" value="Facet" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2746637" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaCodeTo\selfproject\基本配置\springblog\blog-admain\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaCodeTo\selfproject\基本配置\springblog\blog-api\src\main\resources\com\lzh\blog\dao\mapper" />
+      <recent name="E:\JavaCodeTo\selfproject\基本配置\springblog\blog-api\src\main\resources" />
+      <recent name="E:\JavaCodeTo\selfproject\基本配置\springblog\blog-api" />
+      <recent name="E:\JavaCodeTo\selfproject\基本配置\springblog\zelse" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lzh.blog" />
+      <recent name="com.lzh.blog.vo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApp">
+    <configuration name="JWTUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzh.blog.utils.JWTUtils" />
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzh.blog.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blogtest.po" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzh.blog.handler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzh.blog" />
+      <option name="MAIN_CLASS_NAME" value="com.lzh.blog.blogtest" />
+      <option name="METHOD_NAME" value="po" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzh.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.blog.BlogApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="admin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-admain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzh.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzh.blog.admin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BlogApp" />
+        <item itemvalue="JUnit.blogtest.po" />
+        <item itemvalue="Spring Boot.admin" />
+        <item itemvalue="应用程序.JWTUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="86afa8a8-0fb4-4a1f-aa25-f180fdb73c9c" name="变更" comment="" />
+      <created>1646127324726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646127324726</updated>
+      <workItem from="1646127326270" duration="1035000" />
+      <workItem from="1646139032322" duration="1883000" />
+      <workItem from="1646141059251" duration="5633000" />
+      <workItem from="1646182812938" duration="1949000" />
+      <workItem from="1646191039391" duration="11336000" />
+      <workItem from="1646296093478" duration="12292000" />
+      <workItem from="1646309875148" duration="3048000" />
+      <workItem from="1646318957189" duration="620000" />
+      <workItem from="1646358490995" duration="4127000" />
+      <workItem from="1646363978031" duration="646000" />
+      <workItem from="1646445563715" duration="19843000" />
+      <workItem from="1646481340776" duration="11551000" />
+      <workItem from="1646538843002" duration="2030000" />
+      <workItem from="1646554441884" duration="17082000" />
+      <workItem from="1646618337274" duration="6461000" />
+      <workItem from="1646632361707" duration="4900000" />
+      <workItem from="1646654860012" duration="1519000" />
+      <workItem from="1646726421661" duration="5249000" />
+      <workItem from="1646745201062" duration="6360000" />
+      <workItem from="1646807615486" duration="8143000" />
+      <workItem from="1646888976555" duration="562000" />
+      <workItem from="1647336728567" duration="1293000" />
+      <workItem from="1651227738579" duration="5210000" />
+      <workItem from="1651321541646" duration="647000" />
+      <workItem from="1651377504892" duration="1353000" />
+      <workItem from="1652109234645" duration="141000" />
+      <workItem from="1652145328471" duration="8065000" />
+      <workItem from="1652157331548" duration="2565000" />
+      <workItem from="1652183426281" duration="1657000" />
+      <workItem from="1652232693704" duration="461000" />
+      <workItem from="1652271796549" duration="7531000" />
+      <workItem from="1652323633748" duration="1851000" />
+      <workItem from="1652452728043" duration="5269000" />
+      <workItem from="1652495750358" duration="3529000" />
+      <workItem from="1652693745581" duration="4201000" />
+      <workItem from="1652707825464" duration="1192000" />
+      <workItem from="1652774815004" duration="2678000" />
+      <workItem from="1652791493312" duration="2989000" />
+      <workItem from="1652841084667" duration="2003000" />
+      <workItem from="1652876997562" duration="1316000" />
+      <workItem from="1652927483951" duration="4044000" />
+      <workItem from="1653014057987" duration="2157000" />
+      <workItem from="1653035003867" duration="669000" />
+      <workItem from="1653051468237" duration="776000" />
+      <workItem from="1653058235515" duration="401000" />
+      <workItem from="1653100286526" duration="46000" />
+      <workItem from="1653277367404" duration="1804000" />
+      <workItem from="1653355752668" duration="5610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

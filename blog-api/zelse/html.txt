@@ -1,0 +1,6 @@
+config中设置生产环境
+static/category设置图片
+src中放的是源码，api即为接口的定义
+    home.vue即为主页面，主页面引用其他的vue文件（import）
+
+    store/index.js文件为实现方法的代码
