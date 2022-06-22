@@ -63,7 +63,7 @@ public class LoginServiceImpl implements LoginService {
 
         //生成token，存入redis
         String token = JWTUtils.createToken(sysUser.getId());
-        redisTemplate.opsForValue().set("token" + token, JSON.toJSONString(sysUser),1, TimeUnit.DAYS);
+        redisTemplate.opsForValue().set("TOKEN-" + token, JSON.toJSONString(sysUser),1, TimeUnit.DAYS);
         return Result.success(token);
     }
 
@@ -122,7 +122,7 @@ public class LoginServiceImpl implements LoginService {
         sysUser.setPassword(DigestUtils.md5Hex(password+slat));
         sysUser.setCreateDate(System.currentTimeMillis());
         sysUser.setLastLogin(System.currentTimeMillis());
-        sysUser.setAvatar("/static/img/logo.b3a48c0.png");
+        sysUser.setAvatar("/static/img/logo.a84f5b6.png");
         sysUser.setAdmin(1); //1 为true
         sysUser.setDeleted(0); // 0 为false
         sysUser.setSalt("");

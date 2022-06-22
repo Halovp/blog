@@ -1,7 +1,6 @@
 com\lzh\blog\controller\RegisterController.class
 com\lzh\blog\dao\mapper\SysUserMapper.class
 com\lzh\blog\service\SysUserService.class
-com\lzh\blog\config\SwaggerConfig.class
 com\lzh\blog\controller\swagger\ApiController.class
 com\lzh\blog\dao\mapper\ArticleTagMapper.class
 com\lzh\blog\dao\pojo\Tag.class

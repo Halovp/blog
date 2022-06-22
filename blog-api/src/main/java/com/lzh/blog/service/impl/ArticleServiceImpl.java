@@ -163,6 +163,9 @@ public class ArticleServiceImpl implements ArticleService {
         SysUser sysUser = UserThreadLocal.get();
 
         Article article = new Article();
+
+
+
         article.setAuthorId(sysUser.getId());
         article.setCategoryId(articleParam.getCategory().getId());
         article.setCreateDate(System.currentTimeMillis());

@@ -27,13 +27,13 @@ public class WebMVCConfig implements WebMvcConfigurer {
                 .allowedMethods("GET","POST","HEAD","PUT","DELETE","OPTIONS")
                 .allowCredentials(true)
                 .maxAge(3600)
-                .allowedHeaders("*");
-//                .allowedOrigins("http://120.25.146.10:80","http://localhost:80","http://localhost:8080");
+                .allowedHeaders("*")
+                .allowedOrigins("http://120.25.146.10:8080","http://120.25.146.10:80");//"http://localhost:80","http://localhost:8080");
     }
 
     @Override//在mvc 中添加拦截器
     public void addInterceptors(InterceptorRegistry registry) {
         registry.addInterceptor(loginInterceptor)
-                .addPathPatterns("/test").addPathPatterns("/comments/create/change").addPathPatterns("/articles/publish");;
+                .addPathPatterns("/test");//.addPathPatterns("/comments/create/change").addPathPatterns("/articles/publish");;
     }
     }
