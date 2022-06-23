@@ -1,8 +1,8 @@
 package com.lzh.blog.zelses.daka.controller;
 
 
-import com.example.daka.daka.pojo.Student;
-import com.example.daka.encode;
+
+import com.lzh.blog.zelses.daka.pojo.Student;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;

@@ -4,32 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86afa8a8-0fb4-4a1f-aa25-f180fdb73c9c" name="变更" comment="博客项目">
-      <change afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/zelses/daka/controller/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/zelses/daka/controller/RunClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/zelses/daka/pojo/Student.java" afterDir="false" />
+    <list default="true" id="86afa8a8-0fb4-4a1f-aa25-f180fdb73c9c" name="变更" comment="附加打卡项目">
+      <change afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/zelses/daka/controller/encode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/config/WebMVCConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/config/WebMVCConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/controller/swagger/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/controller/swagger/ApiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/dao/pojo/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/dao/pojo/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/service/impl/ArticleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/service/impl/ArticleServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/service/impl/LoginServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/utils/QiniuUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/utils/QiniuUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/zelses/daka/controller/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/src/main/java/com/lzh/blog/zelses/daka/controller/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/target/blog-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/blog-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/target/blog-api-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/blog-api-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-api/target/blog-api-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-api/target/blog-api-1.0-SNAPSHOT.jar.original" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-api/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/config/SwaggerConfig.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/config/WebMVCConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/config/WebMVCConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/controller/UploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/controller/UploadController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/dao/pojo/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/dao/pojo/Article.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/handler/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/handler/LoginInterceptor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/service/impl/ArticleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/service/impl/ArticleServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/service/impl/LoginServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/service/impl/LoginServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/utils/QiniuUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/classes/com/lzh/blog/utils/QiniuUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/blog-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +103,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.lzh.blog" />
       <recent name="com.lzh.blog.vo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lzh.blog.zelses.daka" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.BlogApp">
@@ -245,7 +236,8 @@
       <workItem from="1655546798696" duration="33000" />
       <workItem from="1655707550941" duration="3539000" />
       <workItem from="1655880310546" duration="1617000" />
-      <workItem from="1655910485307" duration="310000" />
+      <workItem from="1655910485307" duration="1570000" />
+      <workItem from="1655947529082" duration="4718000" />
     </task>
     <task id="LOCAL-00001" summary="博客项目">
       <created>1653400177727</created>
@@ -254,7 +246,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653400177727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="附加打卡项目">
+      <created>1655910835225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655910835225</updated>
+    </task>
+    <task id="LOCAL-00003" summary="附加打卡项目">
+      <created>1655910934980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655910934980</updated>
+    </task>
+    <task id="LOCAL-00004" summary="附加打卡项目">
+      <created>1655911073536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655911073536</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,12 +283,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="博客项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="博客项目" />
+    <MESSAGE value="附加打卡项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="附加打卡项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

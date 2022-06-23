@@ -8,7 +8,9 @@ com\lzh\blog\controller\CommentsController.class
 com\lzh\blog\utils\QiniuUtils.class
 com\lzh\blog\dao\mapper\ArticleMapper.class
 com\lzh\blog\controller\ArticleController.class
+com\lzh\blog\zelses\daka\controller\App.class
 com\lzh\blog\controller\LogoutController.class
+com\lzh\blog\zelses\daka\controller\encode.class
 com\lzh\blog\common\cache\Cache.class
 com\lzh\blog\service\impl\LoginServiceImpl.class
 com\lzh\blog\vo\Result.class
@@ -40,10 +42,12 @@ com\lzh\blog\common\aop\LogAspect.class
 com\lzh\blog\controller\UserController.class
 com\lzh\blog\utils\UserThreadLocal.class
 com\lzh\blog\config\WebMVCConfig.class
+com\lzh\blog\zelses\daka\pojo\Student.class
 com\lzh\blog\controller\LoginController.class
 com\lzh\blog\service\impl\ArticleServiceImpl.class
 com\lzh\blog\dao\pojo\Category.class
 com\lzh\blog\dao\mapper\TagMapper.class
+com\lzh\blog\zelses\daka\controller\RunClock.class
 com\lzh\blog\config\MybatisPlusConfig.class
 com\lzh\blog\vo\TagVo.class
 com\lzh\blog\utils\IpUtils.class
